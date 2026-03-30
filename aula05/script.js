@@ -1,3 +1,5 @@
+//ISABELLA TEIXEIRA DA SILVA 2C
+
 // // EX 1
 // let num = parseFloat(prompt("Digite um número: "));
 
